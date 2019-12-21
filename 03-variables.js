@@ -1,6 +1,6 @@
 // Variables let you save information in the PC's RAM (memory).
 
-var uwu = 1; // Create a variable with name: uwu, and value: 1
+let uwu = 1; // Create a variable with name: uwu, and value: 1
 
 console.log(uwu); // Writes the value of uwu to the screen (1)
 
